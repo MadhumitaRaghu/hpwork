@@ -1,0 +1,11 @@
+.play:hover{
+    cursor: pointer;
+}
+.markdown{
+    height: 50vh;
+    overflow-y: scroll;
+    padding-left: 1rem;
+}
+pre{
+    background-color: #F1F1F1;
+}
